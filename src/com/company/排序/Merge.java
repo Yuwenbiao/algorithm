@@ -1,5 +1,9 @@
 package com.company.排序;
 
+/**
+ * 归并排序
+ * 将一个数组排序，可以（递归地）将它分成两半分别排序，然后将结果归并起来
+ */
 public class Merge extends Example {
     private static Comparable[] aux;//归并所需的辅助数组
 

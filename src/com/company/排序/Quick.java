@@ -1,5 +1,9 @@
 package com.company.排序;
 
+/**
+ * 快速排序
+ * 一种分治的排序算法。将数组分成两个子数组，将两部分独立地排序。快速排序和干部培训是互补的。
+ */
 public class Quick extends Example {
     @Override
     public void sort(Comparable[] array) {

@@ -1,5 +1,9 @@
 package com.company.排序;
 
+/**
+ *插入排序
+ * 将后面的元素插入到前面的有序的元素的适当位置。
+ */
 public class Insertion extends Example {
     @Override
     public void sort(Comparable[] array) {

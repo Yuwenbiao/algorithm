@@ -1,5 +1,9 @@
 package com.company.排序;
 
+/**
+ * 快速排序
+ * 找到数组中最小的那个元素，然后将它和数组的第一个元素交换元素。在剩下的元素中重复此操作。
+ */
 public class Selection extends Example {
     @Override
     public void sort(Comparable[] array) {

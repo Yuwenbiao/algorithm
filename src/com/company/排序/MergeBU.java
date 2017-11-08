@@ -1,5 +1,8 @@
 package com.company.排序;
 
+/**
+ * 自底向上的归并排序
+ */
 public class MergeBU extends Example {
     private static Comparable[] aux;//归并所需的辅助数组
 
